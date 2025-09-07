@@ -3,7 +3,7 @@ This project is focused on managing and administering a Linux system using bash 
 It helped me gain practical knowledge of how the Linux file system works and how to handle various system administration tasks efficiently.
 Through this project, I applied the skills learned in **Linux+** to automate several essential tasks
 
-## 🛠 Features
+## Features
 
 - Simple login simulation.
 - Add new users to the system.
@@ -13,7 +13,7 @@ Through this project, I applied the skills learned in **Linux+** to automate sev
 - Search logs to track user actions.
 - Organized into modular bash scripts.
 
-## 📁 Structure
+## Structure
 
 This project is made up of multiple Bash scripts. You can run each script individually depending on the task:
 
@@ -31,7 +31,7 @@ linux-management-project/
 
 
 
-## ▶ How to Run
+## How to Run
 
 1. Open your terminal  
 2. Clone the repository:
@@ -49,5 +49,4 @@ linux-management-project/
    ```bash
     bash main.sh
 
-``````````````````````````````````````````````
-### Developed by : ZEYAD GASSER
+
